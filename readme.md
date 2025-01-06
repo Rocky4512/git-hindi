@@ -1,6 +1,6 @@
-#learn from chai aur code
+# learn from chai aur code
 
-##install
+## install
 
 ```bash
 npm install
